@@ -52,15 +52,6 @@ Aarogya.me is a comprehensive AI-powered health assistant platform tailored for 
 
 ---
 
-### 🏥 Nearest Hospital Locator
-
-- Uses Google Maps + Geolocation API
-- Get real-time list of **hospitals near you**
-- Instant navigation from within the app
-- Great for rural & emergency use cases
-
----
-
 ### 📸 AI Health Input via Camera
 
 - Users can **upload** or **click** a photo
