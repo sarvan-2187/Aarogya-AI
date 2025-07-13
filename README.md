@@ -109,8 +109,6 @@ _Aarogya.me_ is built to assist **rural families, students, senior citizens, and
 
 - **Sarvan Kumar** – Team Lead (Solo Participant 😅)
 
-Special thanks to **Code for Bharat** and the open-source community! 🙏
-
 ---
 
 ## 📦 Run Locally
