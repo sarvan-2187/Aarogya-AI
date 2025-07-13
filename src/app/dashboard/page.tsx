@@ -73,10 +73,10 @@ export default function HealthDashboard() {
 
     const featureSections = [
         {
-            title: 'Emergency ✅',
+            title: 'Emergency',
             items: [
                 {
-                    name: 'PharmaFind',
+                    name: 'PharmaUse Find',
                     description: 'Learn how to use medicines properly during emergency times.',
                     route: '/medicine-usage',
                     buttonText: 'Check Usage',
@@ -108,7 +108,7 @@ export default function HealthDashboard() {
             title: 'Cure',
             items: [
                 {
-                    name: 'RemediAI ✅',
+                    name: 'RemediAI',
                     description: 'Get AI based OTC medications for the symptoms you provide.',
                     route: '/medication-recommender',
                     buttonText: 'Try AI Recommender',
@@ -126,7 +126,7 @@ export default function HealthDashboard() {
                     borderColor: 'border-[#5B3B8B]',
                 },
                 {
-                    name: 'PxVault ✅',
+                    name: 'PxVault',
                     description: 'Upload and access prescriptions securely, access anytime you need them.',
                     route: '/prescription-vault',
                     buttonText: 'Store Prescription',
@@ -135,7 +135,7 @@ export default function HealthDashboard() {
                     borderColor: 'border-[#475569]',
                 },
                 {
-                    name: 'LabLens ✅',
+                    name: 'LabLens',
                     description: 'Learn about Lab test measures and get Advices using our AI chatbot.',
                     route: '/lab-test-chat',
                     buttonText: 'Start Chat',
@@ -144,7 +144,7 @@ export default function HealthDashboard() {
                     borderColor: 'border-[#AD7B3D]',
                 },
                 {
-                    name: 'AnaVison ✅',
+                    name: 'AnaVison',
                     description: 'Predict the Chances of Anaemia using Nail Images.',
                     route: '/anaemia-vision',
                     buttonText: 'Check Now',
