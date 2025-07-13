@@ -1,6 +1,6 @@
 # 🏥 Aarogya.me – Your AI Health Companion
 
-**Built with ❤️ for Code for Bharat – Season 2**
+**Built with ❤️ for Bharat**
 
 Aarogya.me is a comprehensive AI-powered health assistant platform tailored for _Bharat_. It aims to simplify healthcare access using smart technology – available in your browser, on your mobile, and in your language. Be it sleep, skin, medicine, or emergency care – _Aarogya has your back_.
 
