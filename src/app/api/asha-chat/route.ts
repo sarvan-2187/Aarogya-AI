@@ -72,6 +72,13 @@ Rules you MUST follow:
 
     const result = chatCompletion.choices[0].message.content;
 
+    if (result === null) {
+      return NextResponse.json(
+        { error: 'AI returned null response.' },
+        { status: 500 }
+      );
+    }
+
     try {
       const json = JSON.parse(result);
       return NextResponse.json(json);
