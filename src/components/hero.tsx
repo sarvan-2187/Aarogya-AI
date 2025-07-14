@@ -7,11 +7,6 @@ import { useEffect, useState } from 'react';
 import { link } from 'fs';
 import { Link, ArrowRightCircle } from 'lucide-react';
 
-
-
-// Dynamic Cursor-Responsive Background Component
-
-
 // Define types
 interface Particle {
     id: number;
@@ -215,7 +210,7 @@ export default function Hero() {
                         initial={{ opacity: 0, y: 40 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 1.4, duration: 1 }}
-                        className="flex flex-col md:flex-row items-center justify-center md:justify-start  gap-4"
+                        className="flex flex-row md:flex-row items-center justify-center md:justify-start  gap-4"
                     >
                         <motion.a
                             href="/sign-up"
