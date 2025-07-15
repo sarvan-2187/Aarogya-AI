@@ -69,14 +69,7 @@ export function Faq() {
                 "It considers factors like allergies, fitness goals, and dietary restrictions."
             ]
         },
-        {
-            value: "item-8",
-            question: "How does the Hospital Locator feature work?",
-            answer: [
-                "The Nearest Hospital Locator uses your device's location to find nearby medical facilities in real time.",
-                "It’s especially useful during emergencies when every second counts."
-            ]
-        }
+        
     ];
 
     return (
